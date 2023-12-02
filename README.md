@@ -13,34 +13,15 @@
 - ⚡ Fun fact: I Love TailwindCSS so much that I can remember most utility classes without looking at the docs😄
 -->
 
+## Hey there! 👋
 
-## Hello there! 👋
+I'm Daniel, a passionate developer immersed in web and mobile technologies. Currently:
 
-I'm Daniel Chibuogwu, a passionate software developer deeply immersed in the world of web and mobile technologies.
+- Building Flickwheel's Mobile App and working on my portfolio/blog.
+- Learning Node.js and mastering web animations with GSAP.
 
-### 🔭 What I'm Working On
+🤝 Open to collaborations on blogs, frontend web, and mobile projects using React, Vue and React Native.
 
-- Building the mobile app for [Flickwheel](https://flickwheel.com/) to bring a seamless experience to users.
-- Crafting my personal portfolio and blog to share my journey and insights.
+💬 Ask me about JavaScript, TailwindCSS, Typescript, Next.js, React Native, Expo, CSS animations, GSAP, and Node.js.
 
-### 🌱 What I'm Currently Learning
-
-I'm on a journey to master:
-
-- Node.js - to understand JavaScript server-side magic.
-- Web animations using GSAP to bring interfaces to life.
-
-
-### 💬 Ask Me About
-
-If you have questions or want to chat about:
-
-- JavaScript, Typescript, and Node.js for powerful server-side scripting.
-- TailwindCSS - my go-to for stylish and efficient styling.
-- Next.js - building robust and scalable web applications.
-- React Native and Expo - creating cross-platform mobile apps.
-
-### ⚡ Fun Fact
-
-I have such a deep love for TailwindCSS that I can recall most utility classes without peeking into the documentation. It's my styling superpower! 😄
-
+⚡ Fun Fact: I'm a TailwindCSS enthusiast who can recall most utility classes by heart! 😄 Let's connect and build amazing things! 🚀
