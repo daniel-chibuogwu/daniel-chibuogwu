@@ -22,7 +22,7 @@ I'm Daniel Chibuogwu, a passionate software developer deeply immersed in the wor
 
 ### 🔭 What I'm Working On
 
-- Building the mobile app for [Flickwheel](#) to bring a seamless experience to users.
+- Building the mobile app for [Flickwheel](https://flickwheel.com/) to bring a seamless experience to users.
 - Crafting my personal portfolio and blog to share my journey and insights.
 
 ### 🌱 What I'm Currently Learning
