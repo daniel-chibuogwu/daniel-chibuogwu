@@ -27,16 +27,8 @@ I'm Daniel Chibuogwu, a passionate software developer deeply immersed in the wor
 
 I'm on a journey to master:
 
-- Node.js for server-side JavaScript magic.
+- Node.js - to understand JavaScript server-side magic.
 - Web animations using GSAP to bring interfaces to life.
-
-### 👯 Let's Collaborate!
-
-I'm open to collaborations on:
-
-- Blogging - let's share our knowledge and experiences.
-- Frontend web projects - turning ideas into elegant and functional interfaces.
-- Mobile app projects - creating delightful user experiences using React Native.
 
 
 ### 💬 Ask Me About
@@ -47,11 +39,8 @@ If you have questions or want to chat about:
 - TailwindCSS - my go-to for stylish and efficient styling.
 - Next.js - building robust and scalable web applications.
 - React Native and Expo - creating cross-platform mobile apps.
-- CSS animations and GSAP - bringing websites to life.
 
 ### ⚡ Fun Fact
 
 I have such a deep love for TailwindCSS that I can recall most utility classes without peeking into the documentation. It's my styling superpower! 😄
-
-Let's connect and build amazing things together! 🚀
 
