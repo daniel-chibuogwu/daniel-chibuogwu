@@ -18,7 +18,6 @@
 I'm Daniel, a passionate developer immersed in web and mobile technologies. Currently:
 
 - Building Flickwheel's Mobile App and working on my portfolio/blog.
-- Learning Node.js and mastering web animations with GSAP.
 
 🤝 Open to collaborations on blogs, frontend web, and mobile projects using React, Vue and React Native.
 
