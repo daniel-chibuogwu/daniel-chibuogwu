@@ -15,9 +15,7 @@
 
 ## Hey there! 👋
 
-I'm Daniel, a passionate developer immersed in web and mobile technologies. Currently:
-
-- Building Flickwheel's Mobile App and working on my portfolio/blog.
+I'm Daniel, a passionate developer immersed in web and mobile technologies.
 
 🤝 Open to collaborations on blogs, frontend web, and mobile projects using React, Vue and React Native.
 
